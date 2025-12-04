@@ -1,0 +1,10 @@
+.obsidian/workspace
+.obsidian/backups/
+.obsidian/cache
+.obsidian/usage-stats.json
+.obsidian/plugins/*/data.json
+.DS_Store
+99-Attachments/
+*.mp4
+*.mov
+*.pdf
