@@ -25,5 +25,6 @@
   "alwaysUpdateLinks": true,
   "showUnsupportedFiles": true,
   "uriCallbacks": false,
-  "newFileFolderPath": "/"
+  "newFileFolderPath": "/",
+  "promptDelete": false
 }
