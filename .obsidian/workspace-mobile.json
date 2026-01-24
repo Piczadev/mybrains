@@ -32,7 +32,7 @@
         "state": {
           "type": "file-explorer",
           "state": {
-            "sortOrder": "alphabetical",
+            "sortOrder": "byCreatedTime",
             "autoReveal": false
           },
           "icon": "lucide-folder-closed",
@@ -168,7 +168,7 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "c588d6ae165e73a4",
+  "active": "c293459c9c7d0f9b",
   "lastOpenFiles": [
     "Inbox/Prueba.md",
     "Untitled 1",
