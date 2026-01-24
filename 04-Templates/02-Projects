@@ -1,0 +1,19 @@
+---
+status: "In Progress"
+project: "{{name}}"
+type: "project"
+tags: [project, development, blockchain]
+date_start: "{{date:YYYY-MM-DD}}"
+date_due: ""
+---
+
+# ⚙️ Proyecto: {{title}}
+
+## 🎯 Objetivo y Alcance
+
+## 🧑‍💻 Tareas (Usando Dataview)
+```dataview
+TASK
+WHERE project = "{{name}}" AND !completed
+SORT priority DESC
+

@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "0e499e0b37ef12eb",
+        "id": "6f370ae03c0b8d2b",
         "type": "tabs",
         "children": [
           {
-            "id": "523d05b880f0337c",
+            "id": "87c21d52f7772b0a",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -145,20 +145,17 @@
             }
           },
           {
-            "id": "d88db62593aecf58",
+            "id": "6a157d8826660591",
             "type": "leaf",
             "state": {
-              "type": "outline",
-              "state": {
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "Outline"
+              "type": "smart-connections-view",
+              "state": {},
+              "icon": "smart-connections",
+              "title": "Connections"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -173,9 +170,20 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false,
+      "templater-obsidian:Templater": false,
+      "smart-connections:Open: Smart Chat": false,
+      "smart-connections:Smart Connections: Open connections view": false,
+      "smart-connections:Smart Connections: Open random connection": false
     }
   },
-  "active": "523d05b880f0337c",
-  "lastOpenFiles": []
+  "active": "94aa6ed8f241e79e",
+  "lastOpenFiles": [
+    "Untitled",
+    "README.md",
+    "03-Knowledge/Home_MOC.md",
+    "04-Templates/02-Projects",
+    "04-Templates/TPL_01_Capture.md"
+  ]
 }

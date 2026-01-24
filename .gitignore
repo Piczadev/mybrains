@@ -8,3 +8,9 @@
 *.mp4
 *.mov
 *.pdf
+
+
+
+
+# Ignore Smart Environment folder
+.smart-env
