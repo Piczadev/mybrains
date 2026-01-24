@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "38af088c8df8575a",
+        "id": "b355c87060c5be43",
         "type": "tabs",
         "children": [
           {
-            "id": "4d53cae38f159597",
+            "id": "c588d6ae165e73a4",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -158,9 +158,14 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false,
+      "templater-obsidian:Templater": false,
+      "smart-connections:Open: Smart Chat": false,
+      "smart-connections:Smart Connections: Open connections view": false,
+      "smart-connections:Smart Connections: Open random connection": true
     }
   },
-  "active": "4d53cae38f159597",
+  "active": "c588d6ae165e73a4",
   "lastOpenFiles": []
 }
