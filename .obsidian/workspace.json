@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "Home_MOC"
             }
+          },
+          {
+            "id": "a443df2a3d0a5407",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "conflict-files-obsidian-git"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -199,8 +214,12 @@
       "smart-connections:Smart Connections: Open random connection": false
     }
   },
-  "active": "87c21d52f7772b0a",
+  "active": "a443df2a3d0a5407",
   "lastOpenFiles": [
+    "10-Library/Home_MOC.md",
+    "conflict-files-obsidian-git.md",
+    "90-System/Templates/TPL_Project.md",
+    "90-System/Templates/TPL_Dev_Note.md",
     "02-Projects/devv2.md",
     "01-Inbox/Pureb.md",
     "01-Inbox/Prueba.md",
