@@ -20,5 +20,10 @@
     "editor:paste",
     "editor:table-col-align-right",
     "editor:cut"
-  ]
+  ],
+  "newFileLocation": "root",
+  "alwaysUpdateLinks": true,
+  "showUnsupportedFiles": true,
+  "uriCallbacks": false,
+  "newFileFolderPath": "/"
 }
