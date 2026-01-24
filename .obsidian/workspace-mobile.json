@@ -4,21 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "b355c87060c5be43",
+        "id": "13e3a11512680bff",
         "type": "tabs",
         "children": [
           {
-            "id": "c588d6ae165e73a4",
+            "id": "a08f53196b94aefc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "audio",
               "state": {
-                "file": "01-Inbox/daynote/key.md",
-                "mode": "source",
-                "source": false
+                "file": "90-System/Attachments/Recording 20260124122102.m4a"
               },
-              "icon": "lucide-file",
-              "title": "key"
+              "icon": "lucide-file-audio",
+              "title": "Recording 20260124122102"
             }
           }
         ]
@@ -172,10 +170,12 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "c588d6ae165e73a4",
+  "active": "a08f53196b94aefc",
   "lastOpenFiles": [
-    "90-System/Templates/TPL_Project.md",
+    "90-System/Attachments/Recording 20260124122102.m4a",
+    "90-System/Attachments",
     "01-Inbox/daynote/key.md",
+    "90-System/Templates/TPL_Project.md",
     "Inbox/Prueba.md",
     "Untitled 1",
     "Untitled",
