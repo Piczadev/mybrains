@@ -163,9 +163,11 @@
       "templater-obsidian:Templater": false,
       "smart-connections:Open: Smart Chat": false,
       "smart-connections:Smart Connections: Open connections view": false,
-      "smart-connections:Smart Connections: Open random connection": true
+      "smart-connections:Smart Connections: Open random connection": true,
+      "audio-recorder:Start/stop recording": false,
+      "markdown-importer:Open format converter": false
     }
   },
-  "active": "c588d6ae165e73a4",
+  "active": "c293459c9c7d0f9b",
   "lastOpenFiles": []
 }
