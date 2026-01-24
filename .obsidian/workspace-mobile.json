@@ -18,8 +18,19 @@
               "icon": "lucide-file-audio",
               "title": "Recording 20260124122102"
             }
+          },
+          {
+            "id": "d68f1439fa373bf4",
+            "type": "leaf",
+            "state": {
+              "type": "smart-context-release-notes-view",
+              "state": {},
+              "icon": "file-text",
+              "title": "Release Notes"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -170,7 +181,7 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "a08f53196b94aefc",
+  "active": "c293459c9c7d0f9b",
   "lastOpenFiles": [
     "90-System/Attachments/Recording 20260124122102.m4a",
     "90-System/Attachments",
