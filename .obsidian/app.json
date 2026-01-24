@@ -19,7 +19,9 @@
     "editor:copy",
     "editor:paste",
     "editor:table-col-align-right",
-    "editor:cut"
+    "editor:cut",
+    "command-palette:open",
+    "smart-context:copy-current-note-with-depth"
   ],
   "newFileLocation": "folder",
   "alwaysUpdateLinks": true,
