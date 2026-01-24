@@ -1,7 +1,9 @@
 ---
 tags: [moc, home, init]
 ---
-
+TABLE status, tech_stack, created
+FROM "02-Projects"
+SORT created DESC 
 # 🧠 ThinkVault - Home
 
 Bienvenido a tu nuevo sistema de conocimiento.

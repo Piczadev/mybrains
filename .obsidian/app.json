@@ -21,10 +21,12 @@
     "editor:table-col-align-right",
     "editor:cut"
   ],
-  "newFileLocation": "root",
+  "newFileLocation": "folder",
   "alwaysUpdateLinks": true,
   "showUnsupportedFiles": true,
   "uriCallbacks": false,
-  "newFileFolderPath": "/",
-  "promptDelete": false
+  "newFileFolderPath": "01-Inbox",
+  "promptDelete": false,
+  "openBehavior": "",
+  "attachmentFolderPath": "90-System/Attachments"
 }

@@ -3,5 +3,8 @@
   "dataview",
   "templater-obsidian",
   "obsidian-icon-folder",
-  "smart-context"
+  "smart-context",
+  "obsidian-minimal-settings",
+  "smart-connections",
+  "quickadd"
 ]
