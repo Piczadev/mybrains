@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02-Projects/devv2.md",
+                "file": "02-Projects/healtrack/Health-Tracker-Dashboard.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "devv2"
+              "title": "Health-Tracker-Dashboard"
             }
           }
         ]
@@ -173,6 +173,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-importer:Open Importer": false,
       "markdown-importer:Open format converter": false,
       "audio-recorder:Start/stop recording": false,
       "switcher:Open quick switcher": false,
@@ -188,6 +189,7 @@
   },
   "active": "87c21d52f7772b0a",
   "lastOpenFiles": [
+    "02-Projects/devv2.md",
     "10-Library/Home_MOC.md",
     "Users/piczadev/thinkvault/01-Inbox/obsidian prueba.md",
     "90-System/Attachments/Recording 20260124122102.m4a",
@@ -201,7 +203,6 @@
     "conflict-files-obsidian-git.md",
     "90-System/Templates/TPL_Project.md",
     "90-System/Templates/TPL_Dev_Note.md",
-    "02-Projects/devv2.md",
     "01-Inbox/dev.md",
     "Inbox/Pureb.md",
     "Untitled",
