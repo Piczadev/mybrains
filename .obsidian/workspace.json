@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02-Projects/healtrack/Health-Tracker-Dashboard.md",
+                "file": "01-Inbox/dev.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Health-Tracker-Dashboard"
+              "title": "dev"
             }
           }
         ]
@@ -189,13 +189,15 @@
   },
   "active": "87c21d52f7772b0a",
   "lastOpenFiles": [
+    "01-Inbox/daynote/key.md",
+    "01-Inbox/dev.md",
+    "02-Projects/healtrack/Health-Tracker-Dashboard.md",
     "02-Projects/devv2.md",
     "10-Library/Home_MOC.md",
     "Users/piczadev/thinkvault/01-Inbox/obsidian prueba.md",
     "90-System/Attachments/Recording 20260124122102.m4a",
     "01-Inbox/Pureb.md",
     "01-Inbox/Prueba.md",
-    "01-Inbox/daynote/key.md",
     "Users/piczadev/thinkvault/01-Inbox",
     "Users/piczadev/thinkvault",
     "Users/piczadev",
@@ -203,7 +205,6 @@
     "conflict-files-obsidian-git.md",
     "90-System/Templates/TPL_Project.md",
     "90-System/Templates/TPL_Dev_Note.md",
-    "01-Inbox/dev.md",
     "Inbox/Pureb.md",
     "Untitled",
     "README.md",
