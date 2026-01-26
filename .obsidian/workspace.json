@@ -11,14 +11,12 @@
             "id": "87c21d52f7772b0a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "mk-uri-view",
               "state": {
-                "file": "01-Inbox/dev.md",
-                "mode": "source",
-                "source": false
+                "path": "https://www.make.md/static/latest.md"
               },
               "icon": "lucide-file",
-              "title": "dev"
+              "title": "https://www.make.md/static/latest.md"
             }
           }
         ]
@@ -73,8 +71,19 @@
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
             }
+          },
+          {
+            "id": "91f8f16d07b93f20",
+            "type": "leaf",
+            "state": {
+              "type": "mk-path-view",
+              "state": {},
+              "icon": "layout-grid",
+              "title": "Navigator"
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -189,11 +198,13 @@
   },
   "active": "87c21d52f7772b0a",
   "lastOpenFiles": [
-    "01-Inbox/daynote/key.md",
-    "01-Inbox/dev.md",
-    "02-Projects/healtrack/Health-Tracker-Dashboard.md",
-    "02-Projects/devv2.md",
+    "Tags",
     "10-Library/Home_MOC.md",
+    "10-Library/clipboard/2026-01-25-listo asi quedo. mi esctructura ,ahora configurem....md",
+    "02-Projects/devv2.md",
+    "01-Inbox/dev.md",
+    "01-Inbox/daynote/key.md",
+    "02-Projects/healtrack/Health-Tracker-Dashboard.md",
     "Users/piczadev/thinkvault/01-Inbox/obsidian prueba.md",
     "90-System/Attachments/Recording 20260124122102.m4a",
     "01-Inbox/Pureb.md",
