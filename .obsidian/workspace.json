@@ -73,7 +73,7 @@
             }
           },
           {
-            "id": "91f8f16d07b93f20",
+            "id": "1cca8db48381236e",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -196,8 +196,22 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "87c21d52f7772b0a",
+  "active": "1cca8db48381236e",
   "lastOpenFiles": [
+    "01-Inbox/test_grisell.md",
+    "02-Projects/healtrack.md",
+    "10-Library/archive/capture.pcap",
+    "02-Projects/health-watch.md",
+    "02-Projects/cryptprice.md",
+    "02-Projects/portrait-app.md",
+    "02-Projects/hello_solana.md",
+    "01-Inbox/BOOTSTRAP.md",
+    "01-Inbox/HEARTBEAT.md",
+    "01-Inbox/USER.md",
+    "01-Inbox/IDENTITY.md",
+    "01-Inbox/TOOLS.md",
+    "01-Inbox/SOUL.md",
+    "01-Inbox/AGENTS.md",
     "Tags",
     "10-Library/Home_MOC.md",
     "10-Library/clipboard/2026-01-25-listo asi quedo. mi esctructura ,ahora configurem....md",
@@ -218,9 +232,6 @@
     "90-System/Templates/TPL_Dev_Note.md",
     "Inbox/Pureb.md",
     "Untitled",
-    "README.md",
-    "03-Knowledge/Home_MOC.md",
-    "04-Templates/02-Projects",
-    "04-Templates/TPL_01_Capture.md"
+    "04-Templates/02-Projects"
   ]
 }
