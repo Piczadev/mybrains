@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01-Inbox/test_grisell.md",
+                "file": "01-Inbox/grisell note.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "test_grisell"
+              "title": "grisell note"
             }
           }
         ]
@@ -75,7 +75,7 @@
             }
           },
           {
-            "id": "377b559a53045a57",
+            "id": "241a925be0f4c5e7",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -201,6 +201,9 @@
   "active": "87c21d52f7772b0a",
   "lastOpenFiles": [
     "01-Inbox/test_grisell.md",
+    "01-Inbox/grisell note.md",
+    "01-Inbox/TOOLS.md",
+    "01-Inbox/dev.md",
     "02-Projects/healtrack.md",
     "10-Library/archive/capture.pcap",
     "02-Projects/health-watch.md",
@@ -211,14 +214,12 @@
     "01-Inbox/HEARTBEAT.md",
     "01-Inbox/USER.md",
     "01-Inbox/IDENTITY.md",
-    "01-Inbox/TOOLS.md",
     "01-Inbox/SOUL.md",
     "01-Inbox/AGENTS.md",
     "Tags",
     "10-Library/Home_MOC.md",
     "10-Library/clipboard/2026-01-25-listo asi quedo. mi esctructura ,ahora configurem....md",
     "02-Projects/devv2.md",
-    "01-Inbox/dev.md",
     "01-Inbox/daynote/key.md",
     "02-Projects/healtrack/Health-Tracker-Dashboard.md",
     "Users/piczadev/thinkvault/01-Inbox/obsidian prueba.md",
@@ -232,7 +233,6 @@
     "conflict-files-obsidian-git.md",
     "90-System/Templates/TPL_Project.md",
     "90-System/Templates/TPL_Dev_Note.md",
-    "Inbox/Pureb.md",
     "Untitled",
     "04-Templates/02-Projects"
   ]
