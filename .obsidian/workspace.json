@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01-Inbox/grisell note.md",
+                "file": "01-Inbox/saludos.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "grisell note"
+              "title": "saludos"
             }
           }
         ]
@@ -75,7 +75,7 @@
             }
           },
           {
-            "id": "241a925be0f4c5e7",
+            "id": "ebc0653754d48bc6",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -200,8 +200,17 @@
   },
   "active": "87c21d52f7772b0a",
   "lastOpenFiles": [
+    "01-Inbox/01-Inbox/saludos.md",
+    "01-Inbox/01-Inbox",
+    "01-Inbox/SOUL.md",
+    "01-Inbox/saludos.md",
+    "01-Inbox/memory/2026-01-27.md",
+    "01-Inbox/MEMORY.md",
     "01-Inbox/test_grisell.md",
     "01-Inbox/grisell note.md",
+    "01-Inbox/AGENTS.md",
+    "01-Inbox/HEARTBEAT.md",
+    "01-Inbox/IDENTITY.md",
     "01-Inbox/TOOLS.md",
     "01-Inbox/dev.md",
     "02-Projects/healtrack.md",
@@ -211,11 +220,7 @@
     "02-Projects/portrait-app.md",
     "02-Projects/hello_solana.md",
     "01-Inbox/BOOTSTRAP.md",
-    "01-Inbox/HEARTBEAT.md",
     "01-Inbox/USER.md",
-    "01-Inbox/IDENTITY.md",
-    "01-Inbox/SOUL.md",
-    "01-Inbox/AGENTS.md",
     "Tags",
     "10-Library/Home_MOC.md",
     "10-Library/clipboard/2026-01-25-listo asi quedo. mi esctructura ,ahora configurem....md",
@@ -225,14 +230,10 @@
     "Users/piczadev/thinkvault/01-Inbox/obsidian prueba.md",
     "90-System/Attachments/Recording 20260124122102.m4a",
     "01-Inbox/Pureb.md",
-    "01-Inbox/Prueba.md",
     "Users/piczadev/thinkvault/01-Inbox",
     "Users/piczadev/thinkvault",
     "Users/piczadev",
     "Users",
-    "conflict-files-obsidian-git.md",
-    "90-System/Templates/TPL_Project.md",
-    "90-System/Templates/TPL_Dev_Note.md",
     "Untitled",
     "04-Templates/02-Projects"
   ]
