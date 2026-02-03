@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01-Inbox/saludos.md",
+                "file": "01-Inbox/01-Inbox/hola_todos.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "saludos"
+              "title": "hola_todos"
             }
           }
         ]
@@ -75,7 +75,7 @@
             }
           },
           {
-            "id": "ebc0653754d48bc6",
+            "id": "f08c7bf3ad3b250c",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
